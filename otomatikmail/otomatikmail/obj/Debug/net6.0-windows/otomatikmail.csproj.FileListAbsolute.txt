@@ -1,0 +1,16 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\bin\Debug\net6.0-windows\otomatikmail.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\bin\Debug\net6.0-windows\otomatikmail.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\bin\Debug\net6.0-windows\otomatikmail.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\bin\Debug\net6.0-windows\otomatikmail.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\bin\Debug\net6.0-windows\otomatikmail.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\refint\otomatikmail.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\otomatikmail.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yusuf ODUNÇU\palx(Yusuf)Dosyalar\10. SINIF\C#\otomatikmail\otomatikmail\obj\Debug\net6.0-windows\ref\otomatikmail.dll
